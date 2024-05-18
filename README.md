@@ -30,8 +30,3 @@ MACD oscillator is trading strategy 101. MACD refers to Moving Average Convergen
 
 For the strategy itself, we compute long term moving average and short term moving average on the close price of a given stock. To generate the trading signal, we implement a comparison between the moving averages of different time horizons. When short term moving average is above long term moving average, we long the given stock accordingly. Vice versa.
 
-*Click <a href=https://github.com/je-suis-tm/quant-trading/blob/master/MACD%20Oscillator%20backtest.py>here</a> to be redirected to the script.*
-
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/macd%20positions.png)
-
-![alt text](https://github.com/je-suis-tm/quant-trading/blob/master/preview/macd%20oscillator.png)
