@@ -23,6 +23,10 @@ This repository consist a few things. Firstly, the Intro to Quant module. The wo
 ## Strategies:
 
 ### 1. Momentum Moving Average
+My friend, later to be business partner, and I had just started univeristy and had spent a couple of days researching at the univiersity library for a strategy and gotten familiar with the relevant python libraries. We saw an interesting article about how one could see different intervals for MAs (moving averages) as velocity and acceleration and that the results through a backtest showed 12000% gain over the last year. (Yes, in heinsight we should have been more sceptical.) Nontheless, using the concept, we developed a strategy based on this where if the shortest interval MA (acceleration) was higher than the middle MA (velocity) and that in turn was higher than a benchmark MA, we would buy.
+
+Being new to the subject, the code below is extremely slow and has a couple of fundamental flaws, but the idea is still there and the code is quite intuitive to read.
+
 
 ### 2. MACD oscillator (taken from JSTM)
 
