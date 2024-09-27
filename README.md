@@ -17,7 +17,7 @@ This repository consist a few things. Firstly, the Intro to Quant module. The wo
 * <a href=https://github.com/JonssonAlexander/Quant-Projects/blob/main/Quant%20Projects/Old%20Projects/Smoothing_With_Butterworth_Filter_updated.ipynb> Smoothing With Butterworth Filter</a>
 
 #### Intro To Quant 
-* <a href=https://github.com/>Part 1</a>
+* <a href=https://github.com/JonssonAlexander/Quant-Projects/blob/main/IntroToQuant_Part1.ipynb/>Part 1</a>
 * <a href=https://github.com/>Part 2</a>
 
 ## Strategies:
